@@ -96,6 +96,17 @@ _class: ''
 
 ---
 <!--
+_class: ''
+-->
+
+# Combining elementary position estimates
+
+We computed a **refined position estimate** from **multiple elementary** position estimates.
+
+![bg fit right:60%](./images/road_sign_composition.png)
+
+---
+<!--
 header: Dataset creation
 -->
 # Synthetic dataset
