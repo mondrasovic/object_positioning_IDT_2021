@@ -201,10 +201,11 @@ header: Contribution
 * **Position estimation** of a **road sign** from a **single camera** attached to a vehicle.
 * We **developed**, **implemented**, and **tested** **two mathematical approaches** based on **triangulation**.
 * We created a **synthetic** and a **real dataset**.
+* Conducted experiments with **artificial noise**.
 * **Position estimation accuracy** statistics:
   * On the **synthetic dataset**: below $1~m$.
   * On the **real dataset**: up to $4.3~m$ depending on the object-camera distance.
-
+* The developed approaches are simple to implement and can be used as supporting computations in situations where extreme accuracy of position estimation is not required.
 
 ---
 <!--
